@@ -1,90 +1,39 @@
-
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!--h1 without bottom border-->
-<div >
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Fadi W.Naim</h1></summary>
-  </ul>
-</div>
-
-
-<!--- snake -->
+<!-- Header -->
 <div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
-       alt="snake" /></a>
+  <h1>Hi 👋, I'm Fadi W. Naim</h1>
+  <h3>💻 Data Analyst | 📊 Business Intelligence | 🧩 Problem Solver</h3>
 </div>
 
+---
 
-<!--h2 without bottom border-->
-<div >
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
-  </ul>
+<!-- Intro -->
+✨ Confusion is part of programming ✨  
+
+- 💬 Ask me about **Excel, Power BI, Python, SQL**  
+- 📫 Reach me at: **fadiwade0@gmail.com**  
+- 🌐 Portfolio: [fadiwade.portfolial.com](https://fadiwade.portfolial.com/)
+
+---
+
+<!-- Stats -->
+<div align="center">
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=0fadi&theme=dark&hide_border=false&langs_count=6" />
 </div>
 
+---
 
-<!--Intro start-->
-
-- 💬 Ask me about **EXCEL, Power BI, Python, SQL**
-
-- 📫 Feel free to reach me out **fadiwade0@gmail.com**
-
-- 🏠 Portfolio **👋** –  [https://fadiwade.portfolial.com/](https://fadiwade.portfolial.com/)
-<!--Intro end-->
-
-
-
-<!--- stats & Trophy (start) -->
-<p align="center">
-  <!--- stats (start) -->
-<table align="center">
-<tr border="none">
-
-
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=0fadi&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
-</tr>
-</table>
-
-<!--- trophy (start) -->
-
-
-</p>        
-<!--- stats (end) -->
-
-
-<!--h1 without bottom border-->
-<div >
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
-  </ul>
+<!-- Skills -->
+<div align="center">
+  <h2>🚀 Technologies I Use</h2>
+  <img src="https://skillicons.dev/icons?i=python,sql,mysql,postgresql,mongodb,excel,github,html,js" />
 </div>
-<!--tech stack icons-->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,dynamodb,github,html,java,js,mongodb,mysql,py&vscode=14" />
+
+---
+
+<!-- Contact -->
+<div align="center">
+  <h2>🤝 Connect With Me</h2>
+  <a href="https://www.linkedin.com/in/fadi-wade-155a39250/">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
   </a>
-</p>
-
-<!-- Connect with me -->
-<!--h2 without bottom border-->
-<div >
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
-  </ul>
-
-
-<!--icons and links-->
-<p align="center">
-<a href="https://www.linkedin.com/in/fadi-wade-155a39250/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-
-  
-</p>
-
-
-<!--profile visit count-->
+</div>
