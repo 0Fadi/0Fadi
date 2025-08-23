@@ -1,6 +1,6 @@
 <!-- Header -->
 <div align="center">
-  <h1>Hi 👋, I'm Fadi W. Naim</h1>
+  <h1>Hi 👋, I'm Fadi Ibrahim</h1>
   <h3>💻 Data Analyst | 📊 Business Intelligence | 🧩 Problem Solver</h3>
 </div>
 
