@@ -54,7 +54,8 @@
 <!-- Contact -->
 <div align="center">
   <h2>🤝 Connect With Me</h2>
-  <a href="https://www.linkedin.com/in/fadi-wade-155a39250/">
-    <img src="https://www.linkedin.com/in/fadi-wade/" width="50"/>
+  <a href="https://www.linkedin.com/in/fadi-wade-155a39250/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
   </a>
 </div>
+
