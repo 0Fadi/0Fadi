@@ -15,18 +15,40 @@
 
 ---
 
-<!-- Stats -->
+<!-- What I Do -->
 <div align="center">
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=0fadi&theme=dark&hide_border=false&langs_count=6" />
+  <h2>🚀 What I Do</h2>
 </div>
+
+<p align="center">
+  🔹 Transform data into insights with **Excel & Power BI** <br>
+  🔹 Build automated solutions using **Python & SQL** <br>
+  🔹 Create dashboards that drive **smarter business decisions** <br>
+  🔹 Blend technical skills with **pharma & healthcare knowledge**
+</p>
 
 ---
 
-<!-- Skills -->
+<!-- Projects -->
 <div align="center">
-  <h2>🚀 Technologies I Use</h2>
-  <img src="https://skillicons.dev/icons?i=python,sql,mysql,postgresql,mongodb,excel,github,html,js" />
+  <h2>📂 Featured Projects</h2>
 </div>
+
+- 📊 [Pharma Sales Dashboard](https://link-to-your-dashboard) – Interactive Power BI dashboard showing sales by region, reps, and dosage forms.  
+- 🏥 [Healthcare Data Analysis](https://link-to-your-project) – Analyzed hospital records using SQL & Python to optimize resource use.  
+- 📈 [Egypt Economic Evolution](https://link-to-your-medium-article) – Data-driven article & visuals on Egypt's economy (1991–2023).
+
+---
+
+<!-- Fun Facts -->
+<div align="center">
+  <h2>🎯 Fun Facts About Me</h2>
+</div>
+
+- 🌍 Based in Egypt, but always open to relocate ✈️  
+- 📚 Lifelong learner, currently exploring **advanced BI tools**  
+- 🎵 Music helps me debug faster 🎧  
+- 🏀 Big fan of teamwork — on & off the court  
 
 ---
 
