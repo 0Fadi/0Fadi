@@ -34,9 +34,9 @@
   <h2>📂 Featured Projects</h2>
 </div>
 
-- 📊 [Pharma Sales Dashboard](https://link-to-your-dashboard) – Interactive Power BI dashboard showing sales by region, reps, and dosage forms.  
-- 🏥 [Healthcare Data Analysis](https://link-to-your-project) – Analyzed hospital records using SQL & Python to optimize resource use.  
-- 📈 [Egypt Economic Evolution](https://link-to-your-medium-article) – Data-driven article & visuals on Egypt's economy (1991–2023).
+- 📊 [Pharmaceutical Drug Sales]([https://link-to-your-dashboard](https://www.linkedin.com/in/fadi-wade/overlay/1755802048255/single-media-viewer/?profileId=ACoAAD4W6JEBrLg8rRJsjgSyQi-idCDv26NhxPY)) – Interactive Power BI dashboard showing sales by region, reps, and dosage forms.  
+- 🏥 [Sales and Profit Dashboard]([https://link-to-your-project](https://media.journoportfolio.com/users/315574/uploads/d85a2c03-f222-417f-88e7-378931f9879b.pdf)) – Analyzed hospital records using SQL & Python to optimize resource use.  
+- 📈 [HR Attrition Dashboard]([https://link-to-your-medium-article](https://media.journoportfolio.com/users/315574/images/81a73c6d-f41e-4fb7-9f62-469623d1810e.jpg)) – Data-driven article & visuals on Egypt's economy (1991–2023).
 
 ---
 
