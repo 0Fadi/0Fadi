@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Excel, Power BI, Python, SQL**  
 - 📫 Reach me at: **fadiwade0@gmail.com**  
-- 🌐 Portfolio: [fadiwade.portfolial.com](https://0fadi.github.io/portfolio/)
+- 🌐 Portfolio: [0fadi.github.io/portfolio](https://0fadi.github.io/portfolio/)
 
 ---
 
