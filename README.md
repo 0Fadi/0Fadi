@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Excel, Power BI, Python, SQL**  
 - 📫 Reach me at: **fadiwade0@gmail.com**  
-- 🌐 Portfolio: [fadiwade.portfolial.com](https://fadiwade.portfolial.com/)
+- 🌐 Portfolio: [fadiwade.portfolial.com](https://0fadi.github.io/portfolio/)
 
 ---
 
@@ -55,6 +55,6 @@
 <div align="center">
   <h2>🤝 Connect With Me</h2>
   <a href="https://www.linkedin.com/in/fadi-wade-155a39250/">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
+    <img src="https://www.linkedin.com/in/fadi-wade/" width="50"/>
   </a>
 </div>
