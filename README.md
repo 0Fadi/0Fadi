@@ -34,11 +34,10 @@
   <h2>📂 Featured Projects</h2>
 </div>
 
-- 📊 [Pharmaceutical Drug Sales]([https://link-to-your-dashboard](https://www.linkedin.com/in/fadi-wade/overlay/1755802048255/single-media-viewer/?profileId=ACoAAD4W6JEBrLg8rRJsjgSyQi-idCDv26NhxPY)) – Interactive Power BI dashboard showing sales by region, reps, and dosage forms.  
-- 🏥 [Sales and Profit Dashboard]([https://link-to-your-project](https://media.journoportfolio.com/users/315574/uploads/d85a2c03-f222-417f-88e7-378931f9879b.pdf)) – Analyzed hospital records using SQL & Python to optimize resource use.  
-- 📈 [HR Attrition Dashboard]([https://link-to-your-medium-article](https://media.journoportfolio.com/users/315574/images/81a73c6d-f41e-4fb7-9f62-469623d1810e.jpg)) – Data-driven article & visuals on Egypt's economy (1991–2023).
+- 📊 [Pharmaceutical Drug Sales](https://www.linkedin.com/in/fadi-wade/overlay/1755802048255/single-media-viewer/?profileId=ACoAAD4W6JEBrLg8rRJsjgSyQi-idCDv26NhxPY) – Power BI dashboard visualizing sales performance by region, reps, and dosage forms.  
+- 💰 [Sales and Profit Dashboard](https://media.journoportfolio.com/users/315574/uploads/d85a2c03-f222-417f-88e7-378931f9879b.pdf) – Interactive dashboard analyzing sales trends, customer segmentation, and profit distribution.  
+- 🏢 [HR Attrition Dashboard](https://media.journoportfolio.com/users/315574/images/81a73c6d-f41e-4fb7-9f62-469623d1810e.jpg) – Dashboard exploring employee attrition patterns and insights for HR decision-making.
 
----
 
 <!-- Fun Facts -->
 <div align="center">
