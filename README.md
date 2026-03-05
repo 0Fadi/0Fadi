@@ -8,7 +8,7 @@
 
 ✨ "Data is the new science. Big Data are the answers." ✨  
 
-- 💬 Ask me about: **Excel (Advanced), Power BI, SQL, Python** - 📫 Reach me at: **fadiwade0@gmail.com** - 🌐 Portfolio: [0fadi.github.io/portfolio](https://0fadi.github.io/portfolio/)
+- 💬 Ask me about: **Excel (Advanced), Power BI, SQL, Python** - 📫 Reach me at: **fadiwade0@gmail.com**
 
 ---
 
@@ -34,13 +34,6 @@
 - 📦 **[Supply Chain Performance & Risk](https://github.com/0Fadi/Supply-Chain-Risk-Analysis)** – Strategic analysis identifying a 4.2-day delay bottleneck in December and managing $25.3M in sales data.
 - 💊 **[Pharmaceutical Drug Sales](https://github.com/0Fadi/Pharmaceutical-Drug-Sales)** – Leveraging pharma background to optimize sales reps' performance and dosage form distribution.
 
-
----
-
-<div align="center">
-  <h2>🛠 Tech Stack</h2>
-  <img src="https://skillicons.dev/icons?i=excel,powerbi,mysql,py,md" />
-</div>
 
 ---
 
