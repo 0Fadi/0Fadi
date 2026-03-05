@@ -29,7 +29,7 @@
   <h2>📂 Featured Projects (The Pillars)</h2>
 </div>
 
-- 📊 **[Sales & RFM Segmentation]([LINK_TO_REPO](https://github.com/0Fadi/Sales-Profit-Analytics-Customer-Segmentation-RFM))** – Advanced Power BI dashboard classifying customers into Champions and At-Risk groups for targeted marketing.
+- 📊 **[Sales & RFM Segmentation]((https://github.com/0Fadi/Sales-Profit-Analytics-Customer-Segmentation-RFM))** – Advanced Power BI dashboard classifying customers into Champions and At-Risk groups for targeted marketing.
 - 🇪🇬 **[Egypt's Economic Evolution (1991-2023)](LINK_TO_REPO)** – A deep dive into 30 years of GDP, trade deficit, and population growth. Includes a published analytical article.
 - 📦 **[Supply Chain Performance & Risk](LINK_TO_REPO)** – Strategic analysis identifying a 4.2-day delay bottleneck in December and managing $25.3M in sales data.
 - 💊 **[Pharmaceutical Drug Sales](LINK_TO_REPO)** – Leveraging pharma background to optimize sales reps' performance and dosage form distribution.
