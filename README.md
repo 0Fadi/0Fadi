@@ -1,61 +1,66 @@
-<!-- Header -->
 <div align="center">
   <h1>Hi 👋, I'm Fadi Ibrahim</h1>
-  <h3>💻 Data Analyst | 📊 Business Intelligence | 🧩 Problem Solver</h3>
+  <h3>💊 Pharmacist & 📊 Data Analyst | Turning Data into Actionable Strategy</h3>
+  <p>Helping businesses grow through <b>Supply Chain Optimization, Customer Intelligence (RFM), and Economic Insights.</b></p>
 </div>
 
 ---
 
-<!-- Intro -->
-✨ Confusion is part of programming ✨  
+✨ "Data is the new science. Big Data are the answers." ✨  
 
-- 💬 Ask me about **Excel, Power BI, Python, SQL**  
-- 📫 Reach me at: **fadiwade0@gmail.com**  
-- 🌐 Portfolio: [0fadi.github.io/portfolio](https://0fadi.github.io/portfolio/)
+- 💬 Ask me about: **Excel (Advanced), Power BI, SQL, Python** - 📫 Reach me at: **fadiwade0@gmail.com** - 🌐 Portfolio: [0fadi.github.io/portfolio](https://0fadi.github.io/portfolio/)
 
 ---
 
-<!-- What I Do -->
 <div align="center">
-  <h2>🚀 What I Do</h2>
+  <h2>🚀 My Expertise</h2>
 </div>
 
 <p align="center">
-  🔹 Transform data into insights with **Excel & Power BI** <br>
-  🔹 Build automated solutions using **Python & SQL** <br>
-  🔹 Create dashboards that drive **smarter business decisions** <br>
-  🔹 Blend technical skills with **pharma & healthcare knowledge**
+  🔹 <b>Operations & Risk:</b> Analyzing $25.3M+ in sales to mitigate supply chain disruptions. <br>
+  🔹 <b>Customer Intelligence:</b> Segmenting 2,500+ customers using <b>RFM</b> to drive loyalty. <br>
+  🔹 <b>Macroeconomics:</b> Analyzing 30 years of national data (Egypt 1991-2023). <br>
+  🔹 <b>Healthcare Analytics:</b> Bridging technical BI with pharmaceutical domain knowledge.
 </p>
 
 ---
 
-<!-- Projects -->
 <div align="center">
-  <h2>📂 Featured Projects</h2>
+  <h2>📂 Featured Projects (The Pillars)</h2>
 </div>
 
-- 📊 [Pharmaceutical Drug Sales](https://www.linkedin.com/in/fadi-wade/overlay/1755802048255/single-media-viewer/?profileId=ACoAAD4W6JEBrLg8rRJsjgSyQi-idCDv26NhxPY) – Power BI dashboard visualizing sales performance by region, reps, and dosage forms.  
-- 💰 [Sales and Profit Dashboard](https://media.journoportfolio.com/users/315574/uploads/d85a2c03-f222-417f-88e7-378931f9879b.pdf) – Interactive dashboard analyzing sales trends, customer segmentation, and profit distribution.  
-- 🏢 [HR Attrition Dashboard](https://media.journoportfolio.com/users/315574/images/81a73c6d-f41e-4fb7-9f62-469623d1810e.jpg) – Dashboard exploring employee attrition patterns and insights for HR decision-making.
-
-
-<!-- Fun Facts -->
-<div align="center">
-  <h2>🎯 Fun Facts About Me</h2>
-</div>
-
-- 🌍 Based in Egypt, but always open to relocate ✈️  
-- 📚 Lifelong learner, currently exploring **advanced BI tools**  
-- 🎵 Music helps me debug faster 🎧  
-- 🏀 Big fan of teamwork — on & off the court  
+- 🇪🇬 **[Egypt's Economic Evolution (1991-2023)](LINK_TO_REPO)** – A deep dive into 30 years of GDP, trade deficit, and population growth. Includes a published analytical article.
+- 📦 **[Supply Chain Performance & Risk](LINK_TO_REPO)** – Strategic analysis identifying a 4.2-day delay bottleneck in December and managing $25.3M in sales data.
+- 📊 **[Sales & RFM Segmentation](LINK_TO_REPO)** – Advanced Power BI dashboard classifying customers into Champions and At-Risk groups for targeted marketing.
+- 💊 **[Pharmaceutical Drug Sales](LINK_TO_REPO)** – Leveraging pharma background to optimize sales reps' performance and dosage form distribution.
+- 🏢 **[HR Attrition Dashboard](LINK_TO_REPO)** – Identifying key variables impacting employee turnover and workforce stability.
 
 ---
 
-<!-- Contact -->
 <div align="center">
-  <h2>🤝 Connect With Me</h2>
-  <a href="https://www.linkedin.com/in/fadi-wade-155a39250/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
-  </a>
+  <h2>🛠 Tech Stack</h2>
+  <img src="https://skillicons.dev/icons?i=excel,powerbi,mysql,py,md" />
 </div>
 
+---
+
+<div align="center">
+  <h2>🎯 Quick Facts</h2>
+</div>
+
+- 🌍 Based in Egypt, ready to impact globally ✈️  
+- ✍️ Data Storyteller: I write articles to explain the "Why" behind the "What".
+- 🏀 Teamwork enthusiast — whether in a sprint or on the court.
+- 🎧 Debugging is better with music.
+
+---
+
+<div align="center">
+  <h2>🤝 Let's Connect</h2>
+  <a href="https://www.linkedin.com/in/fadi-wade-155a39250/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
+  </a>
+  <a href="https://github.com/0fadi" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" width="40"/>
+  </a>
+</div>
