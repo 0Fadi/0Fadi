@@ -38,17 +38,6 @@
 ---
 
 <div align="center">
-  <h2>🎯 Quick Facts</h2>
-</div>
-
-- 🌍 Based in Egypt, ready to impact globally ✈️  
-- ✍️ Data Storyteller: I write articles to explain the "Why" behind the "What".
-- 🏀 Teamwork enthusiast — whether in a sprint or on the court.
-- 🎧 Debugging is better with music.
-
----
-
-<div align="center">
   <h2>🤝 Let's Connect</h2>
   <a href="https://www.linkedin.com/in/fadi-wade-155a39250/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
