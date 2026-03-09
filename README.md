@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi 👋, I'm Fadi Ibrahim</h1>
-  <h3>💻 Business & Data Analyst | Ex-Medical Representative 💊</h3>
+  <h3>💻 Business & Data Analyst </h3>
   Translating Complex Data into Strategic Business Decisions<b>Supply Chain Optimization, Customer Intelligence (RFM), and Economic Insights.</b></p>
 </div>
 
